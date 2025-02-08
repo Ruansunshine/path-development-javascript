@@ -15,6 +15,9 @@
 - Integração de funções para tratar eventos e processar lógicas.
 - Estruturação do projeto inicial para compreensão da aplicação prática.
 - Base para os desafios que reforçam a manipulação de funções e listas.
+- Acesse o projeto no celular: [https://ruansunshine.github.io/SecretNum/](https://ruansunshine.github.io/SecretNum/)
+- Acesse o projeto via Vercel: [https://secretnum.vercel.app/](https://secretnum.vercel.app/)
+
 
 ---
 
