@@ -1,0 +1,10 @@
+listaGenerica = [];
+console.log(listaGenerica);
+linguagemDeProgramação = ['JavaScript', 'Kotlin', 'C', 'Python'];
+console.log(linguagemDeProgramação);
+linguagemDeProgramação.push('Java', 'Ruby', 'Golang');
+console.log(linguagemDeProgramação);
+nomes = ['Ruan', 'Alexandre', 'Alexia'];
+console.log(nomes[0]);
+console.log(nomes[1]);
+console.log(nomes[2]);
